@@ -1,6 +1,10 @@
-# Livro de Receitas :main cook
+# Livro de Receitas 👩‍🍳
 
-Olá! Bem vindo ao meu livro de receitas :wave
+Olá! Bem vindo ao meu livro de receitas 👋
 
-- Salpicão
-- Pavê
+## Salpicão
+
+### Ingredientes
+
+- Peito de frango desfiado
+- Bolo de Cenoura
